@@ -116,9 +116,6 @@
             "projectReferences": {
               "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
                 "projectPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj"
-              },
-              "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj": {
-                "projectPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj"
               }
             }
           }
@@ -196,6 +193,18 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -269,6 +278,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
