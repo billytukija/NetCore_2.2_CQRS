@@ -1,0 +1,8 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Services.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Services.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Services.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Services.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Services\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Services.pdb

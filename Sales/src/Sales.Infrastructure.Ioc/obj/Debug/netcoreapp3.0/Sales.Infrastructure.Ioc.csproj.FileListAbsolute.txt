@@ -1,0 +1,15 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Domain.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Data.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Services.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Domain.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Data.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\bin\Debug\netcoreapp3.0\Sales.Infrastructure.Services.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.csproj.CopyComplete
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp3.0\Sales.Infrastructure.Ioc.pdb

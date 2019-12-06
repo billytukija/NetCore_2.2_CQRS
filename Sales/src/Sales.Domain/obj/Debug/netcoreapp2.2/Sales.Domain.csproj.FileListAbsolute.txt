@@ -1,0 +1,13 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csproj.CopyComplete
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.pdb
