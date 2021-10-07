@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {}
+    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
+    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
         "projectName": "Sales.Infrastructure.Data",
-        "projectPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\billy.tukija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\billy.tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +71,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

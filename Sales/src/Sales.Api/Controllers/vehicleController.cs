@@ -20,6 +20,8 @@ namespace Sales.Api.Controllers
         public async Task<ActionResult> Get(string registration)
         {
             var response = await _mediator.Send(new VehicleQuery(registration));
+
+            // Testing
             return Ok(response);
         }
     }
