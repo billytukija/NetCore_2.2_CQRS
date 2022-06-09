@@ -1,41 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj": {}
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj": {}
   },
   "projects": {
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj": {
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj",
         "projectName": "Sales.Api",
-        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj",
-        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\obj\\",
+        "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\Sales.Api.csproj",
+        "packagesPath": "C:\\Users\\Tukija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj"
               },
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj"
               }
             }
           }
@@ -47,28 +44,17 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MediatR": {
               "target": "Package",
               "version": "[7.0.0, )"
-            },
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -81,24 +67,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj",
         "projectName": "Sales.Domain",
-        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj",
-        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tukija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,14 +97,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj"
               }
             }
           }
@@ -126,6 +117,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -148,24 +140,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
         "projectName": "Sales.Infrastructure.Data",
-        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Tukija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,11 +162,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -189,6 +178,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -219,45 +209,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj": {
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj",
         "projectName": "Sales.Infrastructure.Ioc",
-        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj",
-        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\obj\\",
+        "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\Sales.Infrastructure.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Tukija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Ioc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Domain\\Sales.Domain.csproj"
               },
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Data\\Sales.Infrastructure.Data.csproj"
               },
-              "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj": {
-                "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj"
+              "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj": {
+                "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj"
               }
             }
           }
@@ -269,7 +256,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -277,13 +265,7 @@
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -296,24 +278,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj": {
+    "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj",
         "projectName": "Sales.Infrastructure.Services",
-        "projectPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj",
-        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\cqrs\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\obj\\",
+        "projectPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\Sales.Infrastructure.Services.csproj",
+        "packagesPath": "C:\\Users\\Tukija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tukija\\Documents\\Billy\\Hello\\NetCore_2.2_CQRS\\Sales\\src\\Sales.Infrastructure.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tukija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -321,11 +319,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://35.237.182.57": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -337,6 +335,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -355,7 +354,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

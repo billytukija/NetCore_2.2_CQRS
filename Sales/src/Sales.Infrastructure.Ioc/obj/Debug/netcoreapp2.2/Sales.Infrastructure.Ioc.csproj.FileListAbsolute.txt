@@ -13,3 +13,5 @@ C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CShar
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Ioc.csproj.CopyComplete
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Ioc.dll
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Ioc.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Ioc.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Ioc\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Ioc.pdb

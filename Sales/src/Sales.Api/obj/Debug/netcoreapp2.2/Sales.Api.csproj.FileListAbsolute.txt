@@ -23,3 +23,5 @@ C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CShar
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Api\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Api\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Services.pdb
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Api\obj\Debug\netcoreapp2.2\Sales.Api.csproj.CopyComplete
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Api\obj\Debug\netcoreapp2.2\Sales.Api.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Api\obj\Debug\netcoreapp2.2\Sales.Api.pdb

@@ -9,11 +9,11 @@ namespace Sales.Domain.Vehicle
     {
         public async Task<IEnumerable<VehicleResponse>> Handle(VehicleQuery request, CancellationToken cancellationToken)
         {
-            var vehicles = new List<VehicleResponse>(new VehicleResponse[]
+            var vehicles = new List<VehicleResponse>
             {
                 new VehicleResponse(){ Registration = "001", Brand = "VW"},
                 new VehicleResponse(){ Registration = "002", Brand = "Toyota"}
-            });
+            };
 
             return await Task.FromResult(vehicles);
         }

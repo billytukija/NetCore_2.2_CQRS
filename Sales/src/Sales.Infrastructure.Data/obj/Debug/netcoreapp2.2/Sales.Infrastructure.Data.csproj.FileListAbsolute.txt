@@ -6,3 +6,13 @@ C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CShar
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.AssemblyInfo.cs
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.dll
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.deps.json
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Infrastructure.Data\obj\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb

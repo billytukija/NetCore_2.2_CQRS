@@ -10,7 +10,7 @@ namespace Sales.Infrastructure.Ioc
     {
         public static void AddDependencies(this IServiceCollection services)
         {
-            services.AddMediatR(typeof(QuotationQueryHandler).Assembly);
+            // services.AddMediatR(typeof(QuotationQueryHandler).Assembly);
         }
     }
 }

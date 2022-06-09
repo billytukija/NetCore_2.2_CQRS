@@ -9,3 +9,16 @@ C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CShar
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csproj.CopyComplete
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.dll
 C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.deps.json
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Domain.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\bin\Debug\netcoreapp2.2\Sales.Infrastructure.Data.pdb
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csproj.AssemblyReference.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.AssemblyInfo.cs
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.csproj.CopyComplete
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.dll
+C:\Users\Tukija\Documents\Billy\Hello\NetCore_2.2_CQRS\Sales\src\Sales.Domain\obj\Debug\netcoreapp2.2\Sales.Domain.pdb
